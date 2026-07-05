@@ -12,4 +12,8 @@
 
 ## API testing with Postman/rest-client/thunder client
 
-## Middleware
+## Middleware and Types of Middleware
+
+## Express Error Handling Middleware
+
+## Handle HTTP errors
